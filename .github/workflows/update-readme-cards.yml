@@ -31,8 +31,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate activity graph
-        run: |
-          curl -sf "https://github-readme-activity-graph.vercel.app/graph?username=muhe-byte&bg_color=0D1117&color=2EA44F&line=2EA44F&point=FFFFFF&hide_border=true&theme=react-dark" -o profile/activity-graph.svg || echo "activity graph fetch failed, keeping previous version"
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: muhe-byte
+          options: bg_color=0D1117&color=2EA44F&line=2EA44F&point=FFFFFF&hide_border=true&area=true
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
