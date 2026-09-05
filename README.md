@@ -80,8 +80,10 @@
 <td width="50%" valign="top">
 
 **🌾 [AgroScore Ethiopia](https://github.com/muhe-byte/Agroscore_Ethiopia_project)**
-AI-powered agricultural credit scoring using satellite/Earth Observation data, geospatial ML, and a FastAPI scoring engine. Built during my internship at Acatech Technologies to address the credit gap facing Ethiopian smallholder farmers.
-`Python` `Google Earth Engine` `Scikit-learn` `FastAPI`
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge&logo=render&logoColor=white)](https://agroscoreethiopia.onrender.com/)
+Full-stack ML credit-underwriting platform converting 7 satellite/climate/soil streams (Sentinel-1/2, CHIRPS, SMAP, ERA5, iSDAsoil, SRTM) into FICO-style credit scores (300–850) for Ethiopian smallholder farmers. Calibrated Random Forest yield model (R²=0.7524, 5-fold spatial CV) on 916 audited fields, served via FastAPI with SHAP explainability. Built during my internship at Acatech Technologies to address the credit gap facing Ethiopian smallholder farmers.
+`Python` `Google Earth Engine` `Scikit-learn` `FastAPI` `Render`
+<sub>Hosted on Render's free tier — first load can take ~40s to wake up.</sub>
 
 </td>
 <td width="50%" valign="top">
