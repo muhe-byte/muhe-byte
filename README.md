@@ -20,7 +20,7 @@
 - 🎓 Final-year **BSc Data Science** student at **Bahir Dar University** (2023–2027, GPA 3.7/4.0), based in Bahir Dar, Ethiopia
 - 🌱 Right now I'm building **AgroScore Ethiopia**, an ML + geospatial credit-scoring engine for smallholder farmers, and growing my **Amharic-language Python/AI course** on YouTube
 - 💬 Ask me about: computer vision pipelines, end-to-end ML systems, FastAPI backends, or getting started in Data Science in Amharic
-- ⚡ Fun fact: I teach Python in Amharic so more Ethiopian learners can get into Data Science and AI from zero 🇪🇹
+- ⚡ Fun fact: I teach Python and Data Science in Amharic so more Ethiopian learners can get into Data Science and AI from zero 🇪🇹
 
 ---
 
@@ -54,14 +54,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhe-byte&show_icons=true&theme=tokyonight&title_color=2EA44F&icon_color=2EA44F&hide_border=true&bg_color=0D1117&count_private=true" alt="Muhamed's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhe-byte&layout=compact&theme=tokyonight&title_color=2EA44F&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img height="165" src="./profile/stats.svg" alt="Muhamed's GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhe-byte&bg_color=0D1117&color=2EA44F&line=2EA44F&point=FFFFFF&hide_border=true&theme=react-dark" alt="Contribution Graph" />
+  <img width="100%" src="./profile/activity-graph.svg" alt="Contribution Graph" />
 </p>
 
 ### 💬 Dev Quote
