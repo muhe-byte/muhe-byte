@@ -2,7 +2,7 @@
 
 <h1>Hello! I'm Muhamed 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student+%40+Bahir+Dar+University;Building+ML+%2B+Computer+Vision+Projects;Teaching+Python+in+Amharic+on+YouTube;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Impact&font=Fira%20Code&center=true&width=560&height=45&duration=3000&pause=800&color=2EA44F&vCenter=true&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student+%40+Bahir+Dar+University;Teaching+Data+Science+in+Amharic+on+YouTube;YouTube+Ep.1%3A+Why+Data+Science+in+Ethiopia;6-Month+Roadmap+-%3E+Now+Teaching+Python;Learn+-%3E+Build+-%3E+Share+-%3E+Impact&font=Fira%20Code&center=true&width=760&height=50&duration=3000&pause=800&color=2EA44F&vCenter=true&size=20" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/muhamed-nuru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,9 +18,10 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **BSc Data Science** student at **Bahir Dar University** (2023–2027, GPA 3.7/4.0), based in Bahir Dar, Ethiopia
-- 🌱 Right now I'm building **AgroScore Ethiopia**, an ML + geospatial credit-scoring engine for smallholder farmers, and growing my **Amharic-language Python/AI course** on YouTube
+- 🌱 Right now I'm building **AgroScore Ethiopia**, an ML + geospatial credit-scoring engine for smallholder farmers, and teaching a **full Data Science curriculum in Amharic** on YouTube
+- 🎥 My YouTube series started with *"Why Data Science in Ethiopia"* and a **6-month Data Science roadmap** — I'm now on the roadmap's first practical phase, teaching Python fundamentals, with the rest of the curriculum (statistics, ML, and more) rolling out episode by episode
 - 💬 Ask me about: computer vision pipelines, end-to-end ML systems, FastAPI backends, or getting started in Data Science in Amharic
-- ⚡ Fun fact: I teach Python and Data Science in Amharic so more Ethiopian learners can get into Data Science and AI from zero 🇪🇹
+- ⚡ Fun fact: I'm building the Data Science course I wish existed in Amharic, so more Ethiopian learners can go from zero to job-ready in AI 🇪🇹
 
 ---
 
@@ -118,8 +119,8 @@ Conversational AI food-ordering bot for Ethiopian cuisine using Dialogflow for N
 <td width="50%" valign="top">
 
 **📚 [Data Science with Muhamed (Amharic)](https://github.com/muhe-byte/data-with-muhamed-python)**
-Python fundamentals for Data Science & AI, taught in Amharic, with companion videos on YouTube — making DS/AI more accessible to Ethiopian learners.
-`Python` `Education`
+A full Data Science curriculum taught in Amharic on YouTube. Started with *"Why Data Science in Ethiopia"* and a 6-month roadmap video, and is now working through that roadmap starting with Python fundamentals — statistics, ML, and more to follow.
+`Python` `Data Science` `Education`
 
 </td>
 </tr>
